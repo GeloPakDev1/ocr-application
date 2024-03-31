@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ocr-application</string>
+    <string name="take_image">Take Image</string>
+    <string name="recognize_text">Recognize Text</string>
+    <string name="recognized_text">Recognized Text</string>
+</resources>
